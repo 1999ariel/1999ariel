@@ -25,5 +25,5 @@
 
 <div class="header" aling="center">
    <img width= "200"
-   scr="<img class="giphy-gif-img giphy-img-loaded" src="https://media2.giphy.com/media/EZICHGrSD5QEFCxMiC/giphy.gif?cid=82a1493bamygdva03crysxm8o9k3ytox7oghb5i87dyo3hi7&amp;ep=v1_gifs_trending&amp;rid=giphy.gif&amp;ct=g" width="100%" height="100%" alt="TV gif. Tom from Tom and Jerry, exhausted, fluffs a large red floor pillow before flopping down onto it face-first." style="background: rgb(153, 51, 255);">
+   scr="<img class="giphy-gif-img giphy-img-loaded" src="[https://media2.giphy.com/media/EZICHGrSD5QEFCxMiC/giphy.gif?cid=82a1493bamygdva03crysxm8o9k3ytox7oghb5i87dyo3hi7&amp;ep=v1_gifs_trending&amp;rid=giphy.gif&amp;ct=g" width="100%" height="100%" alt="TV gif. Tom from Tom and Jerry, exhausted, fluffs a large red floor pillow before flopping down onto it face-first." style="background: rgb(153, 51, 255);">](https://giphy.com/gifs/HBOMax-tom-and-jerry-hbomax-n-EZICHGrSD5QEFCxMiC)
 </div>
